@@ -15,21 +15,7 @@
  */
 
 
-#user_name  {
-    width: 600px;
-}
 
-#user_email {
-    width: 600px;
-}
-
-#user_password {
-    width: 600px;
-}
-
-#user_password_confirmation {
-    width: 600px;
-}
 
 label {
     padding: 8px;
@@ -37,6 +23,17 @@ label {
 }
 
 input.btn.btn-primary {
-    margin-top: 15px;
-    width: 600px;
+    margin-top: 40px;
+    width: 100%;
 }
+label#checkin.form-control {
+    margin-top: 30px;
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
